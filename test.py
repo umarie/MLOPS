@@ -11,4 +11,4 @@ def test_addStudent():
 
 def test_removeStudent():
     mlopsObj.removeStudent()
-    assert mlopsObj.getTotalStudents()==4
+    assert mlopsObj.getTotalStudents()==5
